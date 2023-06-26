@@ -6,8 +6,7 @@ div: a red background, white text, a font size of 32px,
 center aligned, and bold
 p: a green background, white text, and a font size 
 of 18px
-button: an orange background and a font size of 18px
-*/
+git*/
 div {
     background-color: red;  /**sets the background color of an element**/
     color: white;           /**sets an element’s text color**/
