@@ -15,8 +15,7 @@ This will help you further practice adding classes and using class selectors, so
 
 */
 
-.click, 
-.no_click {
+.click, .no_click {
     font-size: 28px;
     font-family: Helvetica , "Times New Roman", sans-serif;
 }
